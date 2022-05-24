@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+
+    <title>Student Bio</title>
+  </head>
+
+  <body>
+    <h1>Student Bio</h1>
+
+    <p>
+        I am an artist, wife, daughter, mother, health and wellness professional, 
+        rowing coach, gamer and a dog-mom of 3 mutts. I studied music at The Ohio State University,
+        with a focus on f horn and voice. Concurrently, I was a D-1 varsity rower, while commuting,
+        and maintaining a job. The workload was intense and I loved it! 
+    </p>
+
+    <br />
+
+    <p> Hard work lead to successes I couldn't have imagined, as recently as this past year being inducted
+        into The Ohio State University Athletics Hall of Fame. Surprisingly, I found many crossovers 
+        from the world of visual and musical arts into the world of competitive athletics. The discipline 
+        and confidence required to be the best I could be as an artist, held true in athletics, and 
+        continues to hold true in my relationships and in life. I realized how much control I had over my life.
+        Through this, I realized my love of seeking knowledge and passing on those discoveries to others.   
+    </p>
+    
+    <h2>Contact Info:</h2>
+
+    <ul>
+      <li>Email: challenge641@gmail.com</li>
+      <li>Github: BeKind-Rewind</li>
+      <li>Portfolio: Coming Soon</li>
+    </ul>
+
+    <img
+      src="https://cdn1.sportngin.com/attachments/photo/9668-116733217/AP_Headshot_large.JPG"
+      alt="perry head shot"
+    />
+  </body>
+</html>
